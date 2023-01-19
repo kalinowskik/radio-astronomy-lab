@@ -8,8 +8,8 @@ Radio astronomy observations of Cassiopeia A and the analysis of the obtained da
 ## 5
 Analysis of the calibrator map in the $B=8{,}46\mathrm{GHz}$ band from the Effelsberg radio telescope led to the determination of the calibration factor for the DLA-3C286 source.
 ## 6
-The analysis of the maps of the 4C70.19 radio source from the NGC6048 galaxy in the \mbox{$B=8{,}46\mathrm{\,GHz}$} band from the Effelsberg radio telescope led to the determination of its flux distribution.
+The analysis of the maps of the 4C70.19 radio source from the NGC6048 galaxy in the $B=8{,}46\mathrm{\,GHz}$ band from the Effelsberg radio telescope led to the determination of its flux distribution.
 ## 7
-The analysis of the maps of the 4C70.19 radio source from the NGC6048 galaxy in the \mbox{$B=8{,}46\mathrm{GHz}$} band from the Effelsberg radio telescope led to the determination of its polarized flux distribution and polarization angles.
+The analysis of the maps of the 4C70.19 radio source from the NGC6048 galaxy in the $B=8{,}46\mathrm{GHz}$ band from the Effelsberg radio telescope led to the determination of its polarized flux distribution and polarization angles.
 ## Bonus
 The analysis of 3 observations of 3C326 carried out at different wavelengths led to the determination of contour maps, noise and flux measurements, and determination of the spectral index.
